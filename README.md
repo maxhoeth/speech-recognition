@@ -1,1 +1,1 @@
-# speech-recognition
+# Evaluation of different NN architectures for Speech recognition task with speech_command dataset of Tensorflow
